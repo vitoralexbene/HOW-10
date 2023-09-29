@@ -1,0 +1,3 @@
+passear com o cachorro, 27/09/2023, alta, Não
+reunião , 28/09/2023, alta, Sim
+ler livro, 29/09/2023, baixa, Não
